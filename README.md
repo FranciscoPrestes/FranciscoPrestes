@@ -1,19 +1,21 @@
-<!--
-**FranciscoPrestes/FranciscoPrestes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi I'm Francisco Prestes - CTO at Banco ABC Brasil 👋
+
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working as CTO - Venture Builder at Banco ABC Brasil
+- 🌱 I’m currently learning Artificial Intelligence
+- 👯 I’m looking to collaborate on .Net Core and AI Projects
+- 😄 Pronouns: He / Him
+- 💬 Ask me about: Software Architecture and Solution Architecture
+- ⚡ Fun fact: Chess player
+
+<!--
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
-## Hi I'm Francisco Prestes - CTO at Banco ABC Brasil 👋
+
 <div align="center">
   <a href="https://github.com/FranciscoPrestes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FranciscoPrestes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -50,7 +52,7 @@ Here are some ideas to get you started:
 <div> 
   <a href="https://www.linkedin.com/in/franciscoprestes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://raw.githubusercontent.com/FranciscoPrestes/FranciscoPrestes/main/github-contribution-grid-snake.svg)
  
 </div>
 
