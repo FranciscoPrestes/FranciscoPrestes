@@ -1,8 +1,5 @@
 ## Hi I'm Francisco Prestes - CTO at Banco ABC Brasil 👋
 
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working as CTO - Venture Builder at Banco ABC Brasil
 - 🌱 I’m currently learning Artificial Intelligence
 - 👯 I’m looking to collaborate on .Net Core and AI Projects
