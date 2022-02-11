@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Artificial Intelligence
 - 👯 I’m looking to collaborate on .Net Core and AI Projects
 - 😄 Pronouns: He / Him
-- 💬 Ask me about: Software Architecture and Solution Architecture
+- 💬 Ask me about: Digital Innovation, Software Architecture and Solution Architecture 
 - ⚡ Fun fact: Chess player
 
 <!--
