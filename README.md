@@ -5,8 +5,7 @@
 - 👯 I’m looking to collaborate on .Net Core and AI Projects
 - 😄 Pronouns: He / Him
 - 💬 Ask me about: Digital Innovation, Software Architecture and Solution Architecture 
-- ⚡ Fun fact: Chess player
-
+- ⚡ Fun fact: Chess player <a href="https://www.chess.com/stats/live/rapid/franciscoprestes" target="_blank">Call me on Chess.com</a> 
 <!--
 - 🤔 I’m looking for help with ...
 - 📫 How to reach me: ...
