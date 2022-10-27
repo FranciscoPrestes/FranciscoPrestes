@@ -53,5 +53,5 @@
 ![Snake animation](https://raw.githubusercontent.com/FranciscoPrestes/FranciscoPrestes/main/github-contribution-grid-snake.svg#vitrinedev)
 
   
-</div>
+</div> 
 
