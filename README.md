@@ -1,10 +1,10 @@
-## Hi I'm Francisco Prestes - CTO at Banco ABC Brasil 👋
+## Hi I'm Francisco Prestes - Head of Inovation Lab (Future Lab) at Banco ABC Brasil 👋
 
-- 🔭 I’m currently working as CTO - Venture Builder at Banco ABC Brasil
-- 🌱 I’m currently learning Artificial Intelligence
-- 👯 I’m looking to collaborate on .Net Core and AI Projects
+- 🔭 I’m currently working as Head of Innovation at Banco ABC Brasil
+- 🌱 I’m currently learning Artificial Intelligence and Blockchain
+- 👯 I’m looking to collaborate on .Net Core, Blockchain and AI/ML Projects
 - 😄 Pronouns: He / Him
-- 💬 Ask me about: Digital Innovation, Software Architecture and Solution Architecture 
+- 💬 Ask me about: Digital Innovation, Strategy, Futurism, Solution Architecture, AI/ML and Blockchain 
 - ⚡ Fun fact: Chess player <a href="https://www.chess.com/stats/live/rapid/franciscoprestes" target="_blank">[&#x265E; play with me &#x265E;]</a> 
 <!--
 - 🤔 I’m looking for help with ...
