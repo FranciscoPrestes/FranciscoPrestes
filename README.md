@@ -51,7 +51,11 @@
   
 
 ![Snake animation](https://raw.githubusercontent.com/FranciscoPrestes/FranciscoPrestes/main/github-contribution-grid-snake.svg#vitrinedev)
-<codersrank-summary username="franciscoprestes"></codersrank-summary>
+  
+<img
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=franciscoprestes&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
+/>  
+
   
 </div> 
 
