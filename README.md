@@ -1,6 +1,6 @@
 ## Hi I'm Francisco Prestes - Head of Inovation Lab (Future Lab) at Banco ABC Brasil 👋
 
-- 🔭 I’m currently working as Head of Innovation at Banco ABC Brasil
+- 🔭 I’m currently working as Head of Innovation Lab at Banco ABC Brasil
 - 🌱 I’m currently learning Artificial Intelligence and Blockchain
 - 👯 I’m looking to collaborate on .Net Core, Blockchain and AI/ML Projects
 - 😄 Pronouns: He / Him
@@ -52,9 +52,7 @@
 
 ![Snake animation](https://raw.githubusercontent.com/FranciscoPrestes/FranciscoPrestes/main/github-contribution-grid-snake.svg#vitrinedev)
   
-<img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=franciscoprestes&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
-/>  
+
 
   
 </div> 
