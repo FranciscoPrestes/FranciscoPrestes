@@ -1,6 +1,6 @@
-## Hi I'm Francisco Prestes - Head of Inovation Lab (Future Lab) at Banco ABC Brasil 👋
+## Hi I'm Francisco Prestes - Founder & CTO at Trybo  <a href="https://trybo.digital"> 👋
 
-- 🔭 I’m currently working as Head of Innovation Lab at Banco ABC Brasil
+- 🔭 I’m currently working as CTO at Trybo
 - 🌱 I’m currently learning Artificial Intelligence and Blockchain
 - 👯 I’m looking to collaborate on .Net Core, Blockchain and AI/ML Projects
 - 😄 Pronouns: He / Him
