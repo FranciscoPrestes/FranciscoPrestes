@@ -1,6 +1,6 @@
-## Hi, I'm Francisco Prestes - Director of Engineering, AI, and Innovation at Hamsa  <a href="https://hamsa.com"> 👋
+## Hi, I'm Francisco Prestes - CDO -  Chief Data and AI Officer & Latam CTO at Hamsa  <a href="https://hamsa.com"> 👋
 
-- 🔭 I’m currently Director of Engineering, AI, and Innovation at Hamsa
+- 🔭 I’m currently CDO & Latam CTO at Hamsa
 - 🌱 I’m a master's degree candidate Big Data (Artificial Intelligence and Blockchain)
 - 👯 I’m looking to collaborate on .Net Core, Blockchain, and AI/ML Projects
 - 😄 Pronouns: He / Him
