@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently CDO & Latam CTO at Hamsa
 - 🌱 I’m a master's degree candidate Big Data (Artificial Intelligence and Blockchain)
-- 👯 I’m looking to collaborate on .Net Core, Blockchain, and AI/ML Projects
+- 👯 I’m looking to collaborate on Blockchain, and AI/ML Projects
 - 😄 Pronouns: He / Him
 - 💬 Ask me about: Digital Innovation, Strategy, Solution Architecture, AI/ML and Blockchain 
 - ⚡ Fun fact: Chess player <a href="https://www.chess.com/stats/live/rapid/franciscoprestes" target="_blank">[&#x265E; play with me &#x265E;]</a> 
