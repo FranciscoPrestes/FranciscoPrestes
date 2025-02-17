@@ -1,4 +1,4 @@
-## Hi, I'm Francisco Prestes - AI Solution Architect  at [AI Collaborator]<a href="https://aicollaborator.com/"> 👋
+## Hi, I'm Francisco Prestes - AI Solution Architect  at <a href="https://aicollaborator.com/">AI Collaborator</a> 👋
 
 - 🔭 I’m currently AI Solution Architect at AI Collaborator
 - 🌱 I’m a master's degree candidate Big Data (Artificial Intelligence and Blockchain)
