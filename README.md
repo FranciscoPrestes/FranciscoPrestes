@@ -1,6 +1,6 @@
-## Hi, I'm Francisco Prestes - CDO -  Chief Data and AI Officer & Latam CTO at Hamsa  <a href="https://hamsa.com"> 👋
+## Hi, I'm Francisco Prestes - AI Solution Architect  at AI Collaborator  <a href="https://aicollaborator.com/"> 👋
 
-- 🔭 I’m currently CDO & Latam CTO at Hamsa
+- 🔭 I’m currently AI Solution Architect at AI Collaborator
 - 🌱 I’m a master's degree candidate Big Data (Artificial Intelligence and Blockchain)
 - 👯 I’m looking to collaborate on Blockchain, and AI/ML Projects
 - 😄 Pronouns: He / Him
