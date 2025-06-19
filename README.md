@@ -1,10 +1,10 @@
-## Hi, I'm Francisco Prestes - AI Solution Architect  at <a href="https://aicollaborator.com/">AI Collaborator</a> 👋
+## Hi, I'm Francisco Prestes - Master AI Developer 👋
 
-- 🔭 I’m currently AI Solution Architect at AI Collaborator
+- 🔭 I’m currently Master AI Developer
 - 🌱 I’m a master's degree candidate Big Data (Artificial Intelligence and Blockchain)
 - 👯 I’m looking to collaborate on Blockchain, and AI/ML Projects
 - 😄 Pronouns: He / Him
-- 💬 Ask me about: Digital Innovation, Strategy, Solution Architecture, AI/ML and Blockchain 
+- 💬 Ask me about: Gen AI, AI/ML, Digital Innovation, Strategy, Solution Architecture, and Blockchain 
 - ⚡ Fun fact: Chess player <a href="https://www.chess.com/stats/live/rapid/franciscoprestes" target="_blank">[&#x265E; play with me &#x265E;]</a> 
 <!--
 - 🤔 I’m looking for help with ...
