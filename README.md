@@ -1,6 +1,6 @@
-## Hi, I'm Francisco Prestes - Master AI Developer 👋
+## Hi, I'm Francisco Prestes - Chief AI Officer 👋
 
-- 🔭 I’m currently Master AI Developer
+- 🔭 I’m currently Chief AI Officer
 - 🌱 I’m a master's degree candidate Big Data (Artificial Intelligence and Blockchain)
 - 👯 I’m looking to collaborate on Blockchain, and AI/ML Projects
 - 😄 Pronouns: He / Him
