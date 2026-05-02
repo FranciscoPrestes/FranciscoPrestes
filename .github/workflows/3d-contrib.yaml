@@ -19,7 +19,6 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: FranciscoPrestes
           MAX_REPOS: 100
-          SETTING_JSON: .github/3d-contrib-settings.json
 
       - name: Commit and push if changed
         run: |
