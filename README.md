@@ -34,48 +34,25 @@
   <a href="https://www.chess.com/stats/live/rapid/franciscoprestes"><img src="https://img.shields.io/badge/Fun%20fact-Chess%20player%20%E2%99%9E%20play%20with%20me-1a1b27?style=for-the-badge&logo=chessdotcom&logoColor=bb9af7&labelColor=1a1b27"/></a>
 </p>
 
+<!-- SKILLS RADAR -->
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=7aa2f7&height=70&section=header&text=Skills%20Radar&fontSize=32&fontColor=7aa2f7&animation=fadeIn" width="100%"/>
+
+<p align="center"><i>Self-assessed proficiency across the working domains of a Chief AI Officer.</i></p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://quickchart.io/chart?bkg=transparent&w=520&h=520&c=%7Btype%3A%27radar%27%2Cdata%3A%7Blabels%3A%5B%27AI%20%2F%20ML%27%2C%27GenAI%27%2C%27Big%20Data%27%2C%27Blockchain%27%2C%27Cloud%27%2C%27Backend%27%2C%27Strategy%27%2C%27Architecture%27%5D%2Cdatasets%3A%5B%7Bdata%3A%5B95%2C92%2C88%2C78%2C85%2C88%2C95%2C92%5D%2CbackgroundColor%3A%27rgba(122%2C162%2C247%2C0.3)%27%2CborderColor%3A%27rgb(122%2C162%2C247)%27%2CborderWidth%3A2%2CpointBackgroundColor%3A%27rgb(187%2C154%2C247)%27%2CpointBorderColor%3A%27rgb(187%2C154%2C247)%27%2CpointRadius%3A4%7D%5D%7D%2Coptions%3A%7Bplugins%3A%7Blegend%3A%7Bdisplay%3Afalse%7D%7D%2Cscales%3A%7Br%3A%7BangleLines%3A%7Bcolor%3A%27rgba(169%2C177%2C214%2C0.25)%27%7D%2Cgrid%3A%7Bcolor%3A%27rgba(169%2C177%2C214%2C0.2)%27%7D%2CpointLabels%3A%7Bcolor%3A%27rgb(169%2C177%2C214)%27%2Cfont%3A%7Bsize%3A14%2Cweight%3A%27600%27%7D%7D%2Cticks%3A%7Bdisplay%3Afalse%7D%2CsuggestedMin%3A0%2CsuggestedMax%3A100%7D%7D%7D%7D"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://quickchart.io/chart?bkg=transparent&w=520&h=520&c=%7Btype%3A%27radar%27%2Cdata%3A%7Blabels%3A%5B%27AI%20%2F%20ML%27%2C%27GenAI%27%2C%27Big%20Data%27%2C%27Blockchain%27%2C%27Cloud%27%2C%27Backend%27%2C%27Strategy%27%2C%27Architecture%27%5D%2Cdatasets%3A%5B%7Bdata%3A%5B95%2C92%2C88%2C78%2C85%2C88%2C95%2C92%5D%2CbackgroundColor%3A%27rgba(122%2C162%2C247%2C0.25)%27%2CborderColor%3A%27rgb(81%2C43%2C212)%27%2CborderWidth%3A2%2CpointBackgroundColor%3A%27rgb(123%2C63%2C228)%27%2CpointBorderColor%3A%27rgb(123%2C63%2C228)%27%2CpointRadius%3A4%7D%5D%7D%2Coptions%3A%7Bplugins%3A%7Blegend%3A%7Bdisplay%3Afalse%7D%7D%2Cscales%3A%7Br%3A%7BangleLines%3A%7Bcolor%3A%27rgba(26%2C27%2C39%2C0.2)%27%7D%2Cgrid%3A%7Bcolor%3A%27rgba(26%2C27%2C39%2C0.15)%27%7D%2CpointLabels%3A%7Bcolor%3A%27rgb(26%2C27%2C39)%27%2Cfont%3A%7Bsize%3A14%2Cweight%3A%27600%27%7D%7D%2Cticks%3A%7Bdisplay%3Afalse%7D%2CsuggestedMin%3A0%2CsuggestedMax%3A100%7D%7D%7D%7D"/>
+    <img alt="Skills Radar Chart" width="480" src="https://quickchart.io/chart?bkg=transparent&w=520&h=520&c=%7Btype%3A%27radar%27%2Cdata%3A%7Blabels%3A%5B%27AI%20%2F%20ML%27%2C%27GenAI%27%2C%27Big%20Data%27%2C%27Blockchain%27%2C%27Cloud%27%2C%27Backend%27%2C%27Strategy%27%2C%27Architecture%27%5D%2Cdatasets%3A%5B%7Bdata%3A%5B95%2C92%2C88%2C78%2C85%2C88%2C95%2C92%5D%2CbackgroundColor%3A%27rgba(122%2C162%2C247%2C0.3)%27%2CborderColor%3A%27rgb(122%2C162%2C247)%27%2CborderWidth%3A2%2CpointBackgroundColor%3A%27rgb(187%2C154%2C247)%27%2CpointBorderColor%3A%27rgb(187%2C154%2C247)%27%2CpointRadius%3A4%7D%5D%7D%2Coptions%3A%7Bplugins%3A%7Blegend%3A%7Bdisplay%3Afalse%7D%7D%2Cscales%3A%7Br%3A%7BangleLines%3A%7Bcolor%3A%27rgba(169%2C177%2C214%2C0.25)%27%7D%2Cgrid%3A%7Bcolor%3A%27rgba(169%2C177%2C214%2C0.2)%27%7D%2CpointLabels%3A%7Bcolor%3A%27rgb(169%2C177%2C214)%27%2Cfont%3A%7Bsize%3A14%2Cweight%3A%27600%27%7D%7D%2Cticks%3A%7Bdisplay%3Afalse%7D%2CsuggestedMin%3A0%2CsuggestedMax%3A100%7D%7D%7D%7D"/>
+  </picture>
+</p>
+
 <!-- INSIGHT -->
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=7aa2f7&height=70&section=header&text=Daily%20AI%20Insight&fontSize=32&fontColor=7aa2f7&animation=fadeIn" width="100%"/>
 
 <!-- DAILY-INSIGHT-START -->
 > _"The model is not the moat. The data, the eval, and the user feedback loop are."_
 <!-- DAILY-INSIGHT-END -->
-
-<!-- ARCHITECTURE -->
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=7aa2f7&height=70&section=header&text=Architecture&fontSize=32&fontColor=7aa2f7&animation=fadeIn" width="100%"/>
-
-<p align="center"><i>How the pieces fit together in a CAIO's working mental model.</i></p>
-
-```mermaid
-%%{init: {'theme':'base','themeVariables':{
-  'primaryColor':'#1a1b27','primaryTextColor':'#a9b1d6','primaryBorderColor':'#7aa2f7',
-  'lineColor':'#7aa2f7','secondaryColor':'#bb9af7','tertiaryColor':'#7dcfff',
-  'fontFamily':'Fira Code, monospace'
-}}}%%
-flowchart LR
-  Strategy([Strategy &amp; Vision]):::lead
-  GenAI[GenAI &amp; LLMs]:::ai
-  Data[Big Data &amp; Pipelines]:::data
-  Block[Blockchain Provenance]:::chain
-  Apps[Production AI Apps]:::out
-  Eval[Evaluation &amp; MLOps]:::ops
-
-  Strategy --> GenAI
-  Strategy --> Data
-  Strategy --> Block
-  Data --> GenAI
-  GenAI --> Apps
-  Block --> Apps
-  Apps --> Eval
-  Eval --> GenAI
-
-  classDef lead fill:#7aa2f7,stroke:#7aa2f7,color:#1a1b27,font-weight:bold
-  classDef ai fill:#1a1b27,stroke:#7aa2f7,color:#7aa2f7
-  classDef data fill:#1a1b27,stroke:#bb9af7,color:#bb9af7
-  classDef chain fill:#1a1b27,stroke:#7dcfff,color:#7dcfff
-  classDef out fill:#bb9af7,stroke:#bb9af7,color:#1a1b27,font-weight:bold
-  classDef ops fill:#1a1b27,stroke:#a9b1d6,color:#a9b1d6
-```
 
 <!-- METRICS -->
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=7aa2f7&height=70&section=header&text=GitHub%20Metrics&fontSize=32&fontColor=7aa2f7&animation=fadeIn" width="100%"/>
