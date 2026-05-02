@@ -40,7 +40,7 @@
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=00B4D8&height=70&section=header&text=Daily%20AI%20Insight&fontSize=32&fontColor=00B4D8&animation=fadeIn" width="100%"/>
 
 <!-- DAILY-INSIGHT-START -->
-> _"Attention is all you need — but context is what makes it useful."_
+> _"The model is not the moat. The data, the eval, and the user feedback loop are."_
 <!-- DAILY-INSIGHT-END -->
 
 <!-- STATS -->
