@@ -1,72 +1,101 @@
-## Hi, I'm Francisco Prestes - Chief AI Officer 👋
+<h1 align="center">Hi, I'm Francisco Prestes 👋</h1>
+<h3 align="center">Chief AI Officer · GenAI Architect · Blockchain Researcher</h3>
 
-- 🔭 I’m currently Chief AI Officer
-- 🌱 I hold a master's degree in Big Data (Artificial Intelligence and Blockchain)
-- 👯 I’m looking to collaborate on GenAI, AI/ML, and Big Data Projects
-- 😄 Pronouns: He / Him
-- 💬 Ask me about: Gen AI, AI/ML, Digital Innovation, Strategy, Solution Architecture, and Blockchain 
-- ⚡ Fun fact: Chess player <a href="https://www.chess.com/stats/live/rapid/franciscoprestes" target="_blank">[&#x265E; play with me &#x265E;]</a> 
-<!--
-- 🤔 I’m looking for help with ...
-- 📫 How to reach me: ...
--->
-
-
-<div align="center">
-  <a href="https://github.com/FranciscoPrestes">
-    <img height="200em" width="49%" src="https://gh-readme-stats.vercel.app/api?username=FranciscoPrestes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="200em" width="49%" src="https://gh-readme-stats.vercel.app/api/top-langs/?username=FranciscoPrestes&layout=compact&langs_count=7&theme=dark"/>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=720&lines=Building+the+future+with+GenAI+%E2%9A%A1;AI%2FML+%E2%80%A2+Big+Data+%E2%80%A2+Blockchain;Strategy+%E2%80%A2+Solution+Architecture+%E2%80%A2+Innovation;Chess+player+%E2%99%9E+let%27s+play!" alt="Typing SVG" />
   </a>
-</div>
-<div style="display: inline_block"><br>
-  
-  <img align="center" alt="DotNetCore" title="DotNetCore" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
-  <img align="center" alt="Csharp" title="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  
-  <img align="center" alt="Python" title="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Jupyter" title="Jupyter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg">
-  <img align="center" alt="Pandas" title="Pandas" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg">
-  <img align="center" alt="Scikitlearn" title="Scikitlearn" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg">
-  
-  <img align="center" alt="Rust" title="Rust" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg">
-  <img align="center" alt="Solidity" title="Solidity" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg">
-  <img align="center" alt="GO" title="GO" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
-  <img align="center" alt="Polygon" title="Polygon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/polygon/polygon-original.svg">
-  
-  <img align="center" alt="Js" title="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="React" title="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="HTML" title="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" title="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
-  <img align="center" alt="Swift" title="Swift" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original-wordmark.svg">
-  <img align="center" alt="Kotlin" title="Kotlin" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original-wordmark.svg">
-  
-  <img align="center" alt="Azure" title="Azure" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original-wordmark.svg">
-  <img align="center" alt="AWS" title="AWS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
-  <img align="center" alt="Docker" title="Docker" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
-  <img align="center" alt="Kubernetes" title="Kubernetes" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg">
-  <img align="center" alt="Kafka" title="Apache Kafka" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original-wordmark.svg">
-  
-   
-   
-  
-  
-  
-  
-  
-  </div>
-  
-  ##
- 
-<div> 
-  <a href="https://www.linkedin.com/in/franciscoprestes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/franciscoprestes/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.chess.com/stats/live/rapid/franciscoprestes" target="_blank"><img src="https://img.shields.io/badge/Chess.com-7FA650?style=for-the-badge&logo=chessdotcom&logoColor=white" alt="Chess.com"/></a>
+  <img src="https://komarev.com/ghpvc/?username=FranciscoPrestes&label=Profile+views&color=00b4d8&style=for-the-badge" alt="Profile views"/>
+</p>
+
+---
+
+### About me
+
+- 🔭 Currently **Chief AI Officer**
+- 🎓 Master's degree in **Big Data** (Artificial Intelligence and Blockchain)
+- 👯 Looking to collaborate on **GenAI, AI/ML and Big Data** projects
+- 💬 Ask me about: Gen AI, AI/ML, Digital Innovation, Strategy, Solution Architecture, Blockchain
+- ⚡ Fun fact: chess player — [♞ play with me ♞](https://www.chess.com/stats/live/rapid/franciscoprestes)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="180" src="https://gh-readme-stats.vercel.app/api?username=FranciscoPrestes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
+  <img height="180" src="https://gh-readme-stats.vercel.app/api/top-langs/?username=FranciscoPrestes&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FranciscoPrestes&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=FranciscoPrestes&theme=tokyonight&no-frame=true&column=7&margin-w=10" alt="Trophies"/>
+</p>
+
+---
+
+### 🛠️ Tech Stack
+
+**AI / ML / Data**
+
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+</p>
+
+**Backend / Languages**
+
+<p>
+  <img alt="C#" src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
+  <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img alt="Swift" src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white"/>
+  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+</p>
+
+**Web**
+
+<p>
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+**Blockchain**
+
+<p>
+  <img alt="Solidity" src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"/>
+  <img alt="Polygon" src="https://img.shields.io/badge/Polygon-7B3FE4?style=for-the-badge&logo=polygon&logoColor=white"/>
+</p>
+
+**Cloud / DevOps**
+
+<p>
+  <img alt="Azure" src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img alt="Apache Kafka" src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+</p>
+
+---
+
+### 🐍 Contribution Snake
 
 ![Snake animation](https://raw.githubusercontent.com/FranciscoPrestes/FranciscoPrestes/output/github-contribution-grid-snake.svg)
-  
 
+---
 
-  
-</div> 
-
+<p align="center"><i>"AI is the new electricity." — Andrew Ng</i></p>
