@@ -41,40 +41,47 @@
 > _"The model is not the moat. The data, the eval, and the user feedback loop are."_
 <!-- DAILY-INSIGHT-END -->
 
-<!-- STATS -->
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=7aa2f7&height=70&section=header&text=GitHub%20Stats&fontSize=32&fontColor=7aa2f7&animation=fadeIn" width="100%"/>
+<!-- ARCHITECTURE -->
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=7aa2f7&height=70&section=header&text=Architecture&fontSize=32&fontColor=7aa2f7&animation=fadeIn" width="100%"/>
+
+<p align="center"><i>How the pieces fit together in a CAIO's working mental model.</i></p>
+
+```mermaid
+%%{init: {'theme':'base','themeVariables':{
+  'primaryColor':'#1a1b27','primaryTextColor':'#a9b1d6','primaryBorderColor':'#7aa2f7',
+  'lineColor':'#7aa2f7','secondaryColor':'#bb9af7','tertiaryColor':'#7dcfff',
+  'fontFamily':'Fira Code, monospace'
+}}}%%
+flowchart LR
+  Strategy([Strategy &amp; Vision]):::lead
+  GenAI[GenAI &amp; LLMs]:::ai
+  Data[Big Data &amp; Pipelines]:::data
+  Block[Blockchain Provenance]:::chain
+  Apps[Production AI Apps]:::out
+  Eval[Evaluation &amp; MLOps]:::ops
+
+  Strategy --> GenAI
+  Strategy --> Data
+  Strategy --> Block
+  Data --> GenAI
+  GenAI --> Apps
+  Block --> Apps
+  Apps --> Eval
+  Eval --> GenAI
+
+  classDef lead fill:#7aa2f7,stroke:#7aa2f7,color:#1a1b27,font-weight:bold
+  classDef ai fill:#1a1b27,stroke:#7aa2f7,color:#7aa2f7
+  classDef data fill:#1a1b27,stroke:#bb9af7,color:#bb9af7
+  classDef chain fill:#1a1b27,stroke:#7dcfff,color:#7dcfff
+  classDef out fill:#bb9af7,stroke:#bb9af7,color:#1a1b27,font-weight:bold
+  classDef ops fill:#1a1b27,stroke:#a9b1d6,color:#a9b1d6
+```
+
+<!-- METRICS -->
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=7aa2f7&height=70&section=header&text=GitHub%20Metrics&fontSize=32&fontColor=7aa2f7&animation=fadeIn" width="100%"/>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://gh-readme-stats.vercel.app/api?username=FranciscoPrestes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://gh-readme-stats.vercel.app/api?username=FranciscoPrestes&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true"/>
-    <img height="180" src="https://gh-readme-stats.vercel.app/api?username=FranciscoPrestes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://gh-readme-stats.vercel.app/api/top-langs/?username=FranciscoPrestes&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://gh-readme-stats.vercel.app/api/top-langs/?username=FranciscoPrestes&layout=compact&langs_count=8&theme=default&hide_border=true"/>
-    <img height="180" src="https://gh-readme-stats.vercel.app/api/top-langs/?username=FranciscoPrestes&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=FranciscoPrestes&theme=tokyonight&hide_border=true"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=FranciscoPrestes&theme=default&hide_border=true"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=FranciscoPrestes&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=FranciscoPrestes&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=FranciscoPrestes&theme=minimal&hide_border=true&area=true&custom_title=Contribution%20Activity"/>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=FranciscoPrestes&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Activity Graph"/>
-  </picture>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FranciscoPrestes&theme=tokyonight&no-frame=true&column=7&margin-w=10" alt="Trophies"/>
+  <img src="https://raw.githubusercontent.com/FranciscoPrestes/FranciscoPrestes/main/metrics.svg" alt="GitHub Metrics" width="99%"/>
 </p>
 
 <!-- TECH STACK -->
@@ -111,13 +118,17 @@
   <img src="https://skillicons.dev/icons?i=azure,aws,docker,kubernetes,kafka&theme=dark&perline=8" alt="Cloud"/>
 </p>
 
-<!-- SNAKE -->
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=7aa2f7&height=70&section=header&text=Contribution%20Snake&fontSize=32&fontColor=7aa2f7&animation=fadeIn" width="100%"/>
+<!-- CONTRIBUTION FIELD -->
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=7aa2f7&height=70&section=header&text=Contribution%20Field&fontSize=32&fontColor=7aa2f7&animation=fadeIn" width="100%"/>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/FranciscoPrestes/FranciscoPrestes/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Chart" width="99%"/>
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FranciscoPrestes/FranciscoPrestes/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FranciscoPrestes/FranciscoPrestes/output/github-contribution-grid-snake.svg"/>
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/FranciscoPrestes/FranciscoPrestes/output/github-contribution-grid-snake.svg"/>
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/FranciscoPrestes/FranciscoPrestes/output/github-contribution-grid-snake.svg" width="100%"/>
 </picture>
 
 <!-- FOOTER -->
