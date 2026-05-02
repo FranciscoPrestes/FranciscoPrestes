@@ -1,97 +1,121 @@
-<h1 align="center">Francisco Prestes</h1>
-<p align="center"><i>Chief AI Officer &middot; GenAI Architect &middot; Blockchain Researcher</i></p>
+<!-- HERO -->
+<a href="https://github.com/FranciscoPrestes">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,50:512BD4,100:7B3FE4&height=220&section=header&text=Francisco%20Prestes&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Chief%20AI%20Officer%20%C2%B7%20GenAI%20Architect%20%C2%B7%20Blockchain%20Researcher&descAlignY=60&descSize=18&descColor=e0e0e0" width="100%"/>
+</a>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/franciscoprestes/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0066cc?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://www.chess.com/stats/live/rapid/franciscoprestes" target="_blank"><img src="https://img.shields.io/badge/Chess.com-0d1117?style=flat-square&logo=chessdotcom&logoColor=e6e1d6" alt="Chess.com"/></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=720&lines=Building+the+future+with+GenAI+%E2%9A%A1;AI%2FML+%E2%80%A2+Big+Data+%E2%80%A2+Blockchain;Strategy+%E2%80%A2+Solution+Architecture+%E2%80%A2+Innovation;Chess+player+%E2%99%9E+let%27s+play!" alt="Typing SVG"/>
 </p>
 
----
+<p align="center">
+  <a href="https://www.linkedin.com/in/franciscoprestes/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.chess.com/stats/live/rapid/franciscoprestes" target="_blank"><img src="https://img.shields.io/badge/Chess.com-7FA650?style=for-the-badge&logo=chessdotcom&logoColor=white" alt="Chess.com"/></a>
+  <img src="https://komarev.com/ghpvc/?username=FranciscoPrestes&label=Profile+views&color=00b4d8&style=for-the-badge" alt="Profile views"/>
+</p>
 
-## Abstract
+<!-- ABOUT -->
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=00B4D8&height=70&section=header&text=About%20Me&fontSize=32&fontColor=00B4D8&animation=fadeIn" width="100%"/>
 
-Building production-grade Generative AI systems at the intersection of large language models, distributed data, and blockchain provenance. Holder of a Master's degree in Big Data (Artificial Intelligence and Blockchain), with a working focus on solution architecture, strategy, and AI-first product engineering.
+<p align="center">
+  <img src="https://img.shields.io/badge/Role-Chief%20AI%20Officer-00B4D8?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Education-Master's%20in%20Big%20Data-512BD4?style=for-the-badge&logo=googlescholar&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Focus-AI%20%C2%B7%20Blockchain-7B3FE4?style=for-the-badge&logo=ethereum&logoColor=white"/>
+</p>
 
-Open to collaboration on **GenAI**, **AI/ML** and **Big Data** initiatives.
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to-GenAI%20%C2%B7%20AI%2FML%20%C2%B7%20Big%20Data%20collaborations-2A2A2A?style=for-the-badge&logo=handshake&logoColor=00B4D8"/>
+</p>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/Ask%20me-Gen%20AI%20%C2%B7%20Strategy%20%C2%B7%20Solution%20Architecture-2A2A2A?style=for-the-badge&logo=wechat&logoColor=00B4D8"/>
+</p>
 
-## 1. Research Interests
+<p align="center">
+  <a href="https://www.chess.com/stats/live/rapid/franciscoprestes"><img src="https://img.shields.io/badge/Fun%20fact-Chess%20player%20%E2%99%9E%20play%20with%20me-2A2A2A?style=for-the-badge&logo=chessdotcom&logoColor=00B4D8"/></a>
+</p>
 
-- Generative AI architectures and evaluation methodology
-- Blockchain × AI — provenance, verifiability, decentralized inference
-- Solution architecture for AI-first organizations
-- Big Data pipelines, MLOps, and observability for LLM applications
-
----
-
-## 2. Note from the Lab
+<!-- INSIGHT -->
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=00B4D8&height=70&section=header&text=Daily%20AI%20Insight&fontSize=32&fontColor=00B4D8&animation=fadeIn" width="100%"/>
 
 <!-- DAILY-INSIGHT-START -->
 > _"The model is not the moat. The data, the eval, and the user feedback loop are."_
 <!-- DAILY-INSIGHT-END -->
 
-<sub><i>Rotated daily from a curated pool of 50 notes.</i></sub>
-
----
-
-## 3. Instrumentation
-
-| Domain           | Tools                                                          |
-| :--------------- | :------------------------------------------------------------- |
-| Languages        | C#, .NET, Rust, Go, Python, JavaScript, Swift, Kotlin          |
-| AI / ML / Data   | Jupyter, Pandas, scikit-learn                                  |
-| Web              | React, HTML, CSS                                               |
-| Blockchain       | Solidity, Polygon                                              |
-| Cloud / Infra    | Azure, AWS, Docker, Kubernetes, Apache Kafka                   |
-
----
-
-## 4. Metrics
+<!-- STATS -->
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=00B4D8&height=70&section=header&text=GitHub%20Stats&fontSize=32&fontColor=00B4D8&animation=fadeIn" width="100%"/>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://gh-readme-stats.vercel.app/api?username=FranciscoPrestes&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&hide_title=true&bg_color=0d1117&text_color=e6e1d6&icon_color=0066cc&title_color=0066cc&ring_color=0066cc"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://gh-readme-stats.vercel.app/api?username=FranciscoPrestes&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&hide_title=true&bg_color=f5f1e8&text_color=1a1a1a&icon_color=0066cc&title_color=0066cc&ring_color=0066cc"/>
-    <img height="170" src="https://gh-readme-stats.vercel.app/api?username=FranciscoPrestes&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&hide_title=true&bg_color=0d1117&text_color=e6e1d6&icon_color=0066cc&title_color=0066cc&ring_color=0066cc" alt="GitHub Stats"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://gh-readme-stats.vercel.app/api?username=FranciscoPrestes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://gh-readme-stats.vercel.app/api?username=FranciscoPrestes&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true"/>
+    <img height="180" src="https://gh-readme-stats.vercel.app/api?username=FranciscoPrestes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://gh-readme-stats.vercel.app/api/top-langs/?username=FranciscoPrestes&layout=compact&langs_count=8&hide_border=true&hide_title=true&bg_color=0d1117&text_color=e6e1d6&title_color=0066cc"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://gh-readme-stats.vercel.app/api/top-langs/?username=FranciscoPrestes&layout=compact&langs_count=8&hide_border=true&hide_title=true&bg_color=f5f1e8&text_color=1a1a1a&title_color=0066cc"/>
-    <img height="170" src="https://gh-readme-stats.vercel.app/api/top-langs/?username=FranciscoPrestes&layout=compact&langs_count=8&hide_border=true&hide_title=true&bg_color=0d1117&text_color=e6e1d6&title_color=0066cc" alt="Top Languages"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://gh-readme-stats.vercel.app/api/top-langs/?username=FranciscoPrestes&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://gh-readme-stats.vercel.app/api/top-langs/?username=FranciscoPrestes&layout=compact&langs_count=8&theme=default&hide_border=true"/>
+    <img height="180" src="https://gh-readme-stats.vercel.app/api/top-langs/?username=FranciscoPrestes&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages"/>
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=FranciscoPrestes&hide_border=true&background=0d1117&stroke=0066cc&ring=0066cc&fire=0066cc&currStreakLabel=0066cc&currStreakNum=e6e1d6&sideLabels=e6e1d6&sideNums=e6e1d6&dates=e6e1d6"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=FranciscoPrestes&hide_border=true&background=f5f1e8&stroke=0066cc&ring=0066cc&fire=0066cc&currStreakLabel=0066cc&currStreakNum=1a1a1a&sideLabels=1a1a1a&sideNums=1a1a1a&dates=1a1a1a"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=FranciscoPrestes&hide_border=true&background=0d1117&stroke=0066cc&ring=0066cc&fire=0066cc&currStreakLabel=0066cc&currStreakNum=e6e1d6&sideLabels=e6e1d6&sideNums=e6e1d6&dates=e6e1d6" alt="GitHub Streak"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=FranciscoPrestes&theme=tokyonight&hide_border=true"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=FranciscoPrestes&theme=default&hide_border=true"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=FranciscoPrestes&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=FranciscoPrestes&hide_border=true&area=true&bg_color=0d1117&color=e6e1d6&title_color=0066cc&line=0066cc&point=0066cc&custom_title=Contribution%20Activity"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=FranciscoPrestes&hide_border=true&area=true&bg_color=f5f1e8&color=1a1a1a&title_color=0066cc&line=0066cc&point=0066cc&custom_title=Contribution%20Activity"/>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=FranciscoPrestes&hide_border=true&area=true&bg_color=0d1117&color=e6e1d6&title_color=0066cc&line=0066cc&point=0066cc&custom_title=Contribution%20Activity" alt="Activity Graph"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=FranciscoPrestes&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=FranciscoPrestes&theme=minimal&hide_border=true&area=true&custom_title=Contribution%20Activity"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=FranciscoPrestes&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Activity Graph"/>
   </picture>
 </p>
 
----
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=FranciscoPrestes&theme=tokyonight&no-frame=true&column=7&margin-w=10" alt="Trophies"/>
+</p>
 
-## 5. Contribution Field
+<!-- TECH STACK -->
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=00B4D8&height=70&section=header&text=Tech%20Stack&fontSize=32&fontColor=00B4D8&animation=fadeIn" width="100%"/>
+
+<p align="center"><b>AI / ML / Data</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,anaconda,sklearn,tensorflow,pytorch&theme=dark&perline=8" alt="AI stack"/>
+</p>
+
+<p align="center"><b>Backend / Languages</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,rust,go,js,swift,kotlin&theme=dark&perline=8" alt="Languages"/>
+</p>
+
+<p align="center"><b>Web</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,html,css&theme=dark&perline=8" alt="Web"/>
+</p>
+
+<p align="center"><b>Blockchain</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=solidity&theme=dark&perline=8" alt="Blockchain"/>
+  <img src="https://img.shields.io/badge/Polygon-7B3FE4?style=for-the-badge&logo=polygon&logoColor=white" height="48"/>
+</p>
+
+<p align="center"><b>Cloud / DevOps</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=azure,aws,docker,kubernetes,kafka&theme=dark&perline=8" alt="Cloud"/>
+</p>
+
+<!-- SNAKE -->
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=00B4D8&height=70&section=header&text=Contribution%20Snake&fontSize=32&fontColor=00B4D8&animation=fadeIn" width="100%"/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FranciscoPrestes/FranciscoPrestes/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FranciscoPrestes/FranciscoPrestes/output/github-contribution-grid-snake.svg"/>
-  <img alt="Contribution graph snake animation" src="https://raw.githubusercontent.com/FranciscoPrestes/FranciscoPrestes/output/github-contribution-grid-snake.svg"/>
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/FranciscoPrestes/FranciscoPrestes/output/github-contribution-grid-snake.svg"/>
 </picture>
 
----
+<!-- FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B3FE4,50:512BD4,100:00B4D8&height=120&section=footer&animation=fadeIn" width="100%"/>
 
-## References
-
-[1] LinkedIn — [linkedin.com/in/franciscoprestes](https://www.linkedin.com/in/franciscoprestes/)  
-[2] Chess (rapid stats) — [chess.com/stats/live/rapid/franciscoprestes](https://www.chess.com/stats/live/rapid/franciscoprestes)  
-[3] Andrew Ng. _"AI is the new electricity."_ Stanford GSB, 2017.
+<p align="center"><i>"AI is the new electricity." — Andrew Ng</i></p>
