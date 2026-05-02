@@ -4,9 +4,7 @@
 </a>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=720&lines=Building+the+future+with+GenAI+%E2%9A%A1;AI%2FML+%E2%80%A2+Big+Data+%E2%80%A2+Blockchain;Strategy+%E2%80%A2+Solution+Architecture+%E2%80%A2+Innovation;Chess+player+%E2%99%9E+let%27s+play!" alt="Typing SVG"/>
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=720&lines=Building+the+future+with+GenAI+%E2%9A%A1;AI%2FML+%E2%80%A2+Big+Data+%E2%80%A2+Blockchain;Strategy+%E2%80%A2+Solution+Architecture+%E2%80%A2+Innovation;Chess+player+%E2%99%9E+let%27s+play!" alt="Typing SVG"/>
 </p>
 
 <p align="center">
@@ -84,28 +82,28 @@
 
 <p align="center"><b>AI / ML / Data</b></p>
 <p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,anaconda,sklearn,tensorflow,pytorch&theme=dark&perline=8" alt="AI stack"/></a>
+  <img src="https://skillicons.dev/icons?i=python,anaconda,sklearn,tensorflow,pytorch&theme=dark&perline=8" alt="AI stack"/>
 </p>
 
 <p align="center"><b>Backend / Languages</b></p>
 <p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cs,dotnet,rust,go,js,swift,kotlin&theme=dark&perline=8" alt="Languages"/></a>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,rust,go,js,swift,kotlin&theme=dark&perline=8" alt="Languages"/>
 </p>
 
 <p align="center"><b>Web</b></p>
 <p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,html,css&theme=dark&perline=8" alt="Web"/></a>
+  <img src="https://skillicons.dev/icons?i=react,html,css&theme=dark&perline=8" alt="Web"/>
 </p>
 
 <p align="center"><b>Blockchain</b></p>
 <p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=solidity&theme=dark&perline=8" alt="Blockchain"/></a>
+  <img src="https://skillicons.dev/icons?i=solidity&theme=dark&perline=8" alt="Blockchain"/>
   <img src="https://img.shields.io/badge/Polygon-7B3FE4?style=for-the-badge&logo=polygon&logoColor=white" height="48"/>
 </p>
 
 <p align="center"><b>Cloud / DevOps</b></p>
 <p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=azure,aws,docker,kubernetes,kafka&theme=dark&perline=8" alt="Cloud"/></a>
+  <img src="https://skillicons.dev/icons?i=azure,aws,docker,kubernetes,kafka&theme=dark&perline=8" alt="Cloud"/>
 </p>
 
 <!-- SNAKE -->
