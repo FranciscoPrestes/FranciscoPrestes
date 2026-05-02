@@ -64,33 +64,50 @@
 
 <p align="center"><b>AI / ML / Data</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,anaconda,sklearn,tensorflow,pytorch&theme=dark&perline=8" alt="AI stack"/>
+  <img title="Python" alt="Python" height="48" src="https://skillicons.dev/icons?i=python&theme=dark"/>
+  <img title="Anaconda" alt="Anaconda" height="48" src="https://skillicons.dev/icons?i=anaconda&theme=dark"/>
+  <img title="scikit-learn" alt="scikit-learn" height="48" src="https://skillicons.dev/icons?i=sklearn&theme=dark"/>
+  <img title="TensorFlow" alt="TensorFlow" height="48" src="https://skillicons.dev/icons?i=tensorflow&theme=dark"/>
+  <img title="PyTorch" alt="PyTorch" height="48" src="https://skillicons.dev/icons?i=pytorch&theme=dark"/>
 </p>
 
 <p align="center"><b>Backend / Languages</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,rust,go,js&theme=dark&perline=8" alt="Languages"/>
+  <img title="C#" alt="C#" height="48" src="https://skillicons.dev/icons?i=cs&theme=dark"/>
+  <img title=".NET" alt=".NET" height="48" src="https://skillicons.dev/icons?i=dotnet&theme=dark"/>
+  <img title="Rust" alt="Rust" height="48" src="https://skillicons.dev/icons?i=rust&theme=dark"/>
+  <img title="Go" alt="Go" height="48" src="https://skillicons.dev/icons?i=go&theme=dark"/>
+  <img title="JavaScript" alt="JavaScript" height="48" src="https://skillicons.dev/icons?i=js&theme=dark"/>
+  <img title="TypeScript" alt="TypeScript" height="48" src="https://skillicons.dev/icons?i=ts&theme=dark"/>
 </p>
 
 <p align="center"><b>Web</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,vue,html,css&theme=dark&perline=8" alt="Web"/>
+  <img title="React" alt="React" height="48" src="https://skillicons.dev/icons?i=react&theme=dark"/>
+  <img title="Vue.js" alt="Vue.js" height="48" src="https://skillicons.dev/icons?i=vue&theme=dark"/>
+  <img title="HTML5" alt="HTML5" height="48" src="https://skillicons.dev/icons?i=html&theme=dark"/>
+  <img title="CSS3" alt="CSS3" height="48" src="https://skillicons.dev/icons?i=css&theme=dark"/>
 </p>
 
 <p align="center"><b>Mobile</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=swift,kotlin&theme=dark&perline=8" alt="Mobile"/>
+  <img title="Swift" alt="Swift" height="48" src="https://skillicons.dev/icons?i=swift&theme=dark"/>
+  <img title="Kotlin" alt="Kotlin" height="48" src="https://skillicons.dev/icons?i=kotlin&theme=dark"/>
 </p>
 
 <p align="center"><b>Blockchain</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=solidity&theme=dark&perline=8" alt="Blockchain"/>
-  <img src="https://img.shields.io/badge/Polygon-bb9af7?style=for-the-badge&logo=polygon&logoColor=1a1b27" height="48"/>
+  <img title="Solidity" alt="Solidity" height="48" src="https://skillicons.dev/icons?i=solidity&theme=dark"/>
+  <img title="Polygon" alt="Polygon" height="48" src="https://img.shields.io/badge/Polygon-bb9af7?style=for-the-badge&logo=polygon&logoColor=1a1b27"/>
 </p>
 
 <p align="center"><b>Cloud / DevOps</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=azure,aws,docker,kubernetes,kafka&theme=dark&perline=8" alt="Cloud"/>
+  <img title="Microsoft Azure" alt="Microsoft Azure" height="48" src="https://skillicons.dev/icons?i=azure&theme=dark"/>
+  <img title="Amazon Web Services" alt="Amazon Web Services" height="48" src="https://skillicons.dev/icons?i=aws&theme=dark"/>
+  <img title="Docker" alt="Docker" height="48" src="https://skillicons.dev/icons?i=docker&theme=dark"/>
+  <img title="Kubernetes" alt="Kubernetes" height="48" src="https://skillicons.dev/icons?i=kubernetes&theme=dark"/>
+  <img title="Apache Kafka" alt="Apache Kafka" height="48" src="https://skillicons.dev/icons?i=kafka&theme=dark"/>
 </p>
 
 <!-- CONTRIBUTION FIELD -->
