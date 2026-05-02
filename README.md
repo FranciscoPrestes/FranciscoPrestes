@@ -98,7 +98,9 @@
 <p align="center"><b>Blockchain</b></p>
 <p align="center">
   <img title="Solidity" alt="Solidity" height="48" src="https://skillicons.dev/icons?i=solidity&theme=dark"/>
+  <img title="Ethereum" alt="Ethereum" height="48" src="https://img.shields.io/badge/Ethereum-7aa2f7?style=for-the-badge&logo=ethereum&logoColor=1a1b27"/>
   <img title="Polygon" alt="Polygon" height="48" src="https://img.shields.io/badge/Polygon-bb9af7?style=for-the-badge&logo=polygon&logoColor=1a1b27"/>
+  <img title="Hyperledger Besu" alt="Hyperledger Besu" height="48" src="https://img.shields.io/badge/Hyperledger%20Besu-7dcfff?style=for-the-badge&logo=hyperledger&logoColor=1a1b27"/>
 </p>
 
 <p align="center"><b>Cloud / DevOps</b></p>
