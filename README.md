@@ -52,13 +52,6 @@
   </picture>
 </p>
 
-<!-- METRICS -->
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=7aa2f7&height=70&section=header&text=GitHub%20Metrics&fontSize=32&fontColor=7aa2f7&animation=fadeIn" width="100%"/>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/FranciscoPrestes/FranciscoPrestes/main/metrics.svg" alt="GitHub Metrics" width="99%"/>
-</p>
-
 <!-- TECH STACK -->
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=7aa2f7&height=70&section=header&text=Tech%20Stack&fontSize=32&fontColor=7aa2f7&animation=fadeIn" width="100%"/>
 
