@@ -1,7 +1,7 @@
 ## Hi, I'm Francisco Prestes - Chief AI Officer 👋
 
 - 🔭 I’m currently Chief AI Officer
-- 🌱 I’m a master's degree candidate Big Data (Artificial Intelligence and Blockchain)
+- 🌱 I hold a master's degree in Big Data (Artificial Intelligence and Blockchain)
 - 👯 I’m looking to collaborate on GenAI, AI/ML, and Big Data Projects
 - 😄 Pronouns: He / Him
 - 💬 Ask me about: Gen AI, AI/ML, Digital Innovation, Strategy, Solution Architecture, and Blockchain 
@@ -14,8 +14,9 @@
 
 <div align="center">
   <a href="https://github.com/FranciscoPrestes">
- 
-  <img height="200em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoPrestes&layout=compact&langs_count=7&theme=dark"/>
+    <img height="200em" width="49%" src="https://github-readme-stats.vercel.app/api?username=FranciscoPrestes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="200em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoPrestes&layout=compact&langs_count=7&theme=dark"/>
+  </a>
 </div>
 <div style="display: inline_block"><br>
   
@@ -62,7 +63,7 @@
  
   
 
-![Snake animation](https://raw.githubusercontent.com/FranciscoPrestes/FranciscoPrestes/main/github-contribution-grid-snake.svg#vitrinedev)
+![Snake animation](https://raw.githubusercontent.com/FranciscoPrestes/FranciscoPrestes/output/github-contribution-grid-snake.svg)
   
 
 
