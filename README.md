@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently Chief AI Officer
 - 🌱 I’m a master's degree candidate Big Data (Artificial Intelligence and Blockchain)
-- 👯 I’m looking to collaborate on Blockchain, and AI/ML Projects
+- 👯 I’m looking to collaborate on GenAI, AI/ML, and Big Data Projects
 - 😄 Pronouns: He / Him
 - 💬 Ask me about: Gen AI, AI/ML, Digital Innovation, Strategy, Solution Architecture, and Blockchain 
 - ⚡ Fun fact: Chess player <a href="https://www.chess.com/stats/live/rapid/franciscoprestes" target="_blank">[&#x265E; play with me &#x265E;]</a> 
