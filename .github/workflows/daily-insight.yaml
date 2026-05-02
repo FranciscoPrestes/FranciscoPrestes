@@ -1,0 +1,66 @@
+name: Daily AI Insight
+
+on:
+  schedule:
+    - cron: "5 9 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  rotate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Pick insight of the day
+        id: pick
+        run: |
+          set -euo pipefail
+          DAY=$(date -u +%j)
+          COUNT=$(jq 'length' data/ai-insights.json)
+          INDEX=$(( (10#$DAY - 1) % COUNT ))
+          INSIGHT=$(jq -r ".[$INDEX]" data/ai-insights.json)
+          echo "Selected #$INDEX of $COUNT: $INSIGHT"
+          {
+            echo "insight<<EOF"
+            echo "$INSIGHT"
+            echo "EOF"
+          } >> "$GITHUB_OUTPUT"
+
+      - name: Update README between markers
+        env:
+          INSIGHT: ${{ steps.pick.outputs.insight }}
+        run: |
+          set -euo pipefail
+          python3 - <<'PY'
+          import os, re, pathlib
+          insight = os.environ["INSIGHT"].strip()
+          path = pathlib.Path("README.md")
+          src = path.read_text(encoding="utf-8")
+          new_block = f"<!-- DAILY-INSIGHT-START -->\n> _\"{insight}\"_\n<!-- DAILY-INSIGHT-END -->"
+          updated = re.sub(
+              r"<!-- DAILY-INSIGHT-START -->.*?<!-- DAILY-INSIGHT-END -->",
+              new_block,
+              src,
+              count=1,
+              flags=re.DOTALL,
+          )
+          if updated == src:
+              raise SystemExit("Markers not found in README.md")
+          path.write_text(updated, encoding="utf-8")
+          PY
+
+      - name: Commit and push if changed
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          if git diff --cached --quiet; then
+            echo "No change."
+            exit 0
+          fi
+          git commit -m "chore(readme): rotate daily AI insight"
+          git push
