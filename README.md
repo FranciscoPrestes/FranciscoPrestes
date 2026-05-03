@@ -22,11 +22,20 @@
 <!-- ABOUT -->
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=7aa2f7&height=70&section=header&text=About%20Me&fontSize=32&fontColor=7aa2f7&animation=fadeIn" width="100%"/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Role-Chief%20AI%20Officer-7aa2f7?style=for-the-badge&logo=openai&logoColor=1a1b27&labelColor=1a1b27"/>
-  <img src="https://img.shields.io/badge/Education-Master's%20in%20Big%20Data-bb9af7?style=for-the-badge&logo=googlescholar&logoColor=1a1b27&labelColor=1a1b27"/>
-  <a href="https://github.com/FranciscoPrestes" target="_blank"><img src="https://img.shields.io/badge/Focus-AI%20%C2%B7%20Architecture-7dcfff?style=for-the-badge&logo=openai&logoColor=1a1b27&labelColor=1a1b27"/></a>
-</p>
+<table align="center">
+  <tr>
+    <td align="right">ROLE</td>
+    <td><img src="https://img.shields.io/badge/-Chief%20AI%20Officer-7aa2f7?style=for-the-badge&logo=openai&logoColor=1a1b27"/></td>
+  </tr>
+  <tr>
+    <td align="right">EDUCATION</td>
+    <td><img src="https://img.shields.io/badge/-Master's%20in%20Big%20Data-bb9af7?style=for-the-badge&logo=googlescholar&logoColor=1a1b27"/></td>
+  </tr>
+  <tr>
+    <td align="right">FOCUS</td>
+    <td><a href="https://github.com/FranciscoPrestes" target="_blank"><img src="https://img.shields.io/badge/-AI%20%C2%B7%20Architecture-7dcfff?style=for-the-badge&logo=openai&logoColor=1a1b27"/></a></td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20to-GenAI%20%C2%B7%20AI%2FML%20%C2%B7%20Big%20Data%20collaborations-1a1b27?style=for-the-badge&logo=handshake&logoColor=7aa2f7&labelColor=1a1b27"/>
