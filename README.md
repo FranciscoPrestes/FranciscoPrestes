@@ -10,7 +10,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/franciscoprestes/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-7aa2f7?style=for-the-badge&logo=linkedin&logoColor=1a1b27" alt="LinkedIn"/></a>
   <a href="https://www.chess.com/stats/live/rapid/franciscoprestes" target="_blank"><img src="https://img.shields.io/badge/Chess.com-bb9af7?style=for-the-badge&logo=chessdotcom&logoColor=1a1b27" alt="Chess.com"/></a>
-  <img src="https://komarev.com/ghpvc/?username=FranciscoPrestes&label=Profile+views&color=7dcfff&style=for-the-badge&labelColor=1a1b27" alt="Profile views"/>
 </p>
 
 <!-- INSIGHT -->
