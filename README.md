@@ -40,6 +40,13 @@
   <a href="https://www.chess.com/stats/live/rapid/franciscoprestes"><img src="https://img.shields.io/badge/Fun%20fact-Chess%20player%20%E2%99%9E%20play%20with%20me-1a1b27?style=for-the-badge&logo=chessdotcom&logoColor=bb9af7&labelColor=1a1b27"/></a>
 </p>
 
+<!-- NOW -->
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=7aa2f7&height=70&section=header&text=Now&fontSize=32&fontColor=7aa2f7&animation=fadeIn" width="100%"/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-AI%20%C3%97%20Architecture-7aa2f7?style=for-the-badge&logo=openai&logoColor=1a1b27&labelColor=1a1b27"/>
+</p>
+
 <!-- SKILLS RADAR -->
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=7aa2f7&height=70&section=header&text=Skills%20Radar&fontSize=32&fontColor=7aa2f7&animation=fadeIn" width="100%"/>
 
