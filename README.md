@@ -1,10 +1,10 @@
 <!-- HERO -->
 <a href="https://github.com/FranciscoPrestes">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:bb9af7,100:7dcfff&height=220&section=header&text=Francisco%20Prestes&fontSize=58&fontColor=1a1b27&animation=fadeIn&fontAlignY=38&desc=Chief%20AI%20Officer%20%C2%B7%20GenAI%20Architect%20%C2%B7%20Blockchain%20Researcher&descAlignY=60&descSize=18&descColor=1a1b27" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:bb9af7,100:7dcfff&height=220&section=header&text=Francisco%20Prestes&fontSize=58&fontColor=1a1b27&animation=fadeIn&fontAlignY=38&desc=Chief%20AI%20Officer%20%C2%B7%20GenAI%20Architect%20%C2%B7%20Solution%20Architect&descAlignY=60&descSize=18&descColor=1a1b27" width="100%"/>
 </a>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7aa2f7&center=true&vCenter=true&width=720&lines=Building+the+future+with+GenAI+%E2%9A%A1;AI%2FML+%E2%80%A2+Big+Data+%E2%80%A2+Blockchain;Strategy+%E2%80%A2+Solution+Architecture+%E2%80%A2+Innovation;Chess+player+%E2%99%9E+let%27s+play!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7aa2f7&center=true&vCenter=true&width=720&lines=Building+the+future+with+GenAI+%E2%9A%A1;AI%2FML+%E2%80%A2+Architecture+%E2%80%A2+Big+Data;Strategy+%E2%80%A2+Solution+Architecture+%E2%80%A2+Innovation;Chess+player+%E2%99%9E+let%27s+play!" alt="Typing SVG"/>
 </p>
 
 <p align="center">
@@ -25,7 +25,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Role-Chief%20AI%20Officer-7aa2f7?style=for-the-badge&logo=openai&logoColor=1a1b27&labelColor=1a1b27"/>
   <img src="https://img.shields.io/badge/Education-Master's%20in%20Big%20Data-bb9af7?style=for-the-badge&logo=googlescholar&logoColor=1a1b27&labelColor=1a1b27"/>
-  <img src="https://img.shields.io/badge/Focus-AI%20%C2%B7%20Blockchain-7dcfff?style=for-the-badge&logo=ethereum&logoColor=1a1b27&labelColor=1a1b27"/>
+  <a href="https://github.com/FranciscoPrestes" target="_blank"><img src="https://img.shields.io/badge/Focus-AI%20%C2%B7%20Architecture-7dcfff?style=for-the-badge&logo=openai&logoColor=1a1b27&labelColor=1a1b27"/></a>
 </p>
 
 <p align="center">
