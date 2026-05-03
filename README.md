@@ -105,18 +105,6 @@
   <img title="Apache Kafka" alt="Apache Kafka" height="48" src="https://skillicons.dev/icons?i=kafka&theme=dark"/>
 </p>
 
-<!-- CONTRIBUTION FIELD -->
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=7aa2f7&height=70&section=header&text=Contribution%20Field&fontSize=32&fontColor=7aa2f7&animation=fadeIn" width="100%"/>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/FranciscoPrestes/FranciscoPrestes/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Chart" width="99%"/>
-</p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FranciscoPrestes/FranciscoPrestes/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FranciscoPrestes/FranciscoPrestes/output/github-contribution-grid-snake.svg"/>
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/FranciscoPrestes/FranciscoPrestes/output/github-contribution-grid-snake.svg" width="100%"/>
-</picture>
 
 <!-- FOOTER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dcfff,50:bb9af7,100:7aa2f7&height=120&section=footer&animation=fadeIn" width="100%"/>
