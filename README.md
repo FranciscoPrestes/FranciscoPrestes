@@ -16,7 +16,7 @@
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=7aa2f7&height=70&section=header&text=Daily%20AI%20Insight&fontSize=32&fontColor=7aa2f7&animation=fadeIn" width="100%"/>
 
 <!-- DAILY-INSIGHT-START -->
-> _"Hallucination is a UX problem disguised as a model problem."_
+> _"If you can describe the task in three sentences, an LLM can do it. If you need three pages, redesign the task."_
 <!-- DAILY-INSIGHT-END -->
 
 <!-- ABOUT -->
