@@ -16,7 +16,7 @@
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=7aa2f7&height=70&section=header&text=Daily%20AI%20Insight&fontSize=32&fontColor=7aa2f7&animation=fadeIn" width="100%"/>
 
 <!-- DAILY-INSIGHT-START -->
-> _"An LLM that admits 'I don't know' is more valuable than one that confidently lies."_
+> _"Multi-agent systems trade complexity for ceiling. Make sure you need the ceiling."_
 <!-- DAILY-INSIGHT-END -->
 
 <!-- ABOUT -->
