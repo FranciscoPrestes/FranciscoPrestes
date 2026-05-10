@@ -16,7 +16,7 @@
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=7aa2f7&height=70&section=header&text=Daily%20AI%20Insight&fontSize=32&fontColor=7aa2f7&animation=fadeIn" width="100%"/>
 
 <!-- DAILY-INSIGHT-START -->
-> _"Function calling turned LLMs from oracles into operators."_
+> _"Scaling laws are economic laws. Plot loss vs cost, not loss vs params."_
 <!-- DAILY-INSIGHT-END -->
 
 <!-- ABOUT -->
