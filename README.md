@@ -16,7 +16,7 @@
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=7aa2f7&height=70&section=header&text=Daily%20AI%20Insight&fontSize=32&fontColor=7aa2f7&animation=fadeIn" width="100%"/>
 
 <!-- DAILY-INSIGHT-START -->
-> _"Blockchain solves trust between strangers. AI creates strangers worth trusting. The intersection matters."_
+> _"Smart contracts are not smart and barely contracts. Audit accordingly."_
 <!-- DAILY-INSIGHT-END -->
 
 <!-- ABOUT -->
