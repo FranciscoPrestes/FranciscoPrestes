@@ -16,7 +16,7 @@
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=7aa2f7&height=70&section=header&text=Daily%20AI%20Insight&fontSize=32&fontColor=7aa2f7&animation=fadeIn" width="100%"/>
 
 <!-- DAILY-INSIGHT-START -->
-> _"On-chain provenance for training data is the unsexy frontier of trustworthy AI."_
+> _"Zero-knowledge proofs may be how we verify AI outputs without revealing the model."_
 <!-- DAILY-INSIGHT-END -->
 
 <!-- ABOUT -->
