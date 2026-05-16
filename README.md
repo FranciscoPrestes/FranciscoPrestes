@@ -16,7 +16,7 @@
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=7aa2f7&height=70&section=header&text=Daily%20AI%20Insight&fontSize=32&fontColor=7aa2f7&animation=fadeIn" width="100%"/>
 
 <!-- DAILY-INSIGHT-START -->
-> _"Decentralized inference is a 2030 problem with 2025 demos."_
+> _"Data quality beats model size. Always."_
 <!-- DAILY-INSIGHT-END -->
 
 <!-- ABOUT -->
