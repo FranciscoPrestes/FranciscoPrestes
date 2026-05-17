@@ -59,7 +59,7 @@ A control plane that handles model routing by capability, cost and latency; poli
 
 **vulcan-core** _(coming soon)_ — A lightweight, opinionated runtime for building governable, observable and provider-agnostic AI workflows in enterprise environments.
 
-> Runtime core · CLI · Policy engine · Provider abstraction (OpenAI, Anthropic, Azure OpenAI) · OpenTelemetry tracing · Cost tracking · Human-in-the-loop · Evals · YAML workflow definitions
+> Runtime core · CLI · Policy engine · Provider abstraction (OpenAI, Anthropic, Azure OpenAI) · OpenTelemetry tracing · Cost tracking · Human-in-the-loop · Evals · YAML workflow definitions · Built in Go
 
 ---
 
