@@ -66,7 +66,7 @@ A control plane that handles model routing by capability, cost and latency; poli
 ## Daily AI Insight
 
 <!-- DAILY-INSIGHT-START -->
-> _"Data quality beats model size. Always."_
+> _"The best feature engineer is a domain expert with two days of pandas."_
 <!-- DAILY-INSIGHT-END -->
 
 ---
