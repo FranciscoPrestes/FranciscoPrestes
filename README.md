@@ -55,11 +55,11 @@ A control plane that handles model routing by capability, cost and latency; poli
 
 ---
 
-## Building in public
+## Public work
 
-**vulcan-core** _(coming soon)_ — A lightweight, opinionated runtime for building governable, observable and provider-agnostic AI workflows in enterprise environments.
+This profile is organized around authored systems, architecture notes and applied AI work that reinforce one direction: enterprise AI needs governable, observable and reusable execution layers.
 
-> Runtime core · CLI · Policy engine · Provider abstraction (OpenAI, Anthropic, Azure OpenAI) · OpenTelemetry tracing · Cost tracking · Human-in-the-loop · Evals · YAML workflow definitions · Built in Go
+Public repositories here should point to real code, technical writing or curated maps of AI systems architecture. Forks, short experiments and unrelated demos stay out of the showcase.
 
 ---
 
