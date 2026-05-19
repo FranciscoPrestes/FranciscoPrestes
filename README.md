@@ -66,7 +66,7 @@ A control plane that handles model routing by capability, cost and latency; poli
 ## Daily AI Insight
 
 <!-- DAILY-INSIGHT-START -->
-> _"Pandas is a query language pretending to be a library."_
+> _"If your notebook has 200 cells, it is no longer a notebook. It is a debt."_
 <!-- DAILY-INSIGHT-END -->
 
 ---
