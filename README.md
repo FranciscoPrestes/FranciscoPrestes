@@ -66,7 +66,7 @@ Public repositories here should point to real code, technical writing or curated
 ## Daily AI Insight
 
 <!-- DAILY-INSIGHT-START -->
-> _"Reproducibility is a security property. Pin everything."_
+> _"MLOps is DevOps with worse tooling and higher stakes."_
 <!-- DAILY-INSIGHT-END -->
 
 ---
