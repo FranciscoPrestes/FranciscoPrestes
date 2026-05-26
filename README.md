@@ -66,7 +66,7 @@ Public repositories here should point to real code, technical writing or curated
 ## Daily AI Insight
 
 <!-- DAILY-INSIGHT-START -->
-> _"Most 'AI transformations' are data cleanups in a trench coat."_
+> _"The CAIO who cannot read a confusion matrix is just a CMO with better slides."_
 <!-- DAILY-INSIGHT-END -->
 
 ---
