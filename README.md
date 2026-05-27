@@ -66,7 +66,7 @@ Public repositories here should point to real code, technical writing or curated
 ## Daily AI Insight
 
 <!-- DAILY-INSIGHT-START -->
-> _"The CAIO who cannot read a confusion matrix is just a CMO with better slides."_
+> _"Buy the foundation model. Build the workflow. Own the data."_
 <!-- DAILY-INSIGHT-END -->
 
 ---
