@@ -66,7 +66,7 @@ Public repositories here should point to real code, technical writing or curated
 ## Daily AI Insight
 
 <!-- DAILY-INSIGHT-START -->
-> _"Quantization is the lossy compression of intelligence. Pick your bits wisely."_
+> _"Guardrails are not a feature, they are a contract with your users."_
 <!-- DAILY-INSIGHT-END -->
 
 ---
