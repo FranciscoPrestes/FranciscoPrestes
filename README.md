@@ -66,7 +66,7 @@ Public repositories here should point to real code, technical writing or curated
 ## Daily AI Insight
 
 <!-- DAILY-INSIGHT-START -->
-> _"Agents fail silently. Always assert post-conditions."_
+> _"Vector databases are a means, not an end. Most teams need a better SQL query first."_
 <!-- DAILY-INSIGHT-END -->
 
 ---
