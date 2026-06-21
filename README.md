@@ -66,7 +66,7 @@ Public repositories here should point to real code, technical writing or curated
 ## Daily AI Insight
 
 <!-- DAILY-INSIGHT-START -->
-> _"Vector databases are a means, not an end. Most teams need a better SQL query first."_
+> _"The model is not the moat. The data, the eval, and the user feedback loop are."_
 <!-- DAILY-INSIGHT-END -->
 
 ---
