@@ -66,7 +66,7 @@ Public repositories here should point to real code, technical writing or curated
 ## Daily AI Insight
 
 <!-- DAILY-INSIGHT-START -->
-> _"Smart contracts are not smart and barely contracts. Audit accordingly."_
+> _"On-chain provenance for training data is the unsexy frontier of trustworthy AI."_
 <!-- DAILY-INSIGHT-END -->
 
 ---
