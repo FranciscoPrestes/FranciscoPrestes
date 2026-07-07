@@ -66,7 +66,7 @@ Public repositories here should point to real code, technical writing or curated
 ## Daily AI Insight
 
 <!-- DAILY-INSIGHT-START -->
-> _"The best feature engineer is a domain expert with two days of pandas."_
+> _"Pandas is a query language pretending to be a library."_
 <!-- DAILY-INSIGHT-END -->
 
 ---
