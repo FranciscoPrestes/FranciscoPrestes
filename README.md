@@ -66,7 +66,7 @@ Public repositories here should point to real code, technical writing or curated
 ## Daily AI Insight
 
 <!-- DAILY-INSIGHT-START -->
-> _"A/B test your prompts. Trust your eval, not your taste."_
+> _"Strategy is choosing what NOT to build. AI strategy is choosing what NOT to automate."_
 <!-- DAILY-INSIGHT-END -->
 
 ---
