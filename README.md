@@ -66,7 +66,7 @@ Public repositories here should point to real code, technical writing or curated
 ## Daily AI Insight
 
 <!-- DAILY-INSIGHT-START -->
-> _"Prompt engineering is software engineering with a stochastic compiler."_
+> _"Fine-tuning is rarely the answer. Better retrieval almost always is."_
 <!-- DAILY-INSIGHT-END -->
 
 ---
