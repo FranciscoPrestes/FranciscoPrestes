@@ -66,7 +66,7 @@ Public repositories here should point to real code, technical writing or curated
 ## Daily AI Insight
 
 <!-- DAILY-INSIGHT-START -->
-> _"Synthetic data is real data with deniability."_
+> _"Chain of thought is just verbose execution. Plan more, generate less."_
 <!-- DAILY-INSIGHT-END -->
 
 ---
