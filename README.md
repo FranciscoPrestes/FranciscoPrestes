@@ -66,7 +66,7 @@ Public repositories here should point to real code, technical writing or curated
 ## Daily AI Insight
 
 <!-- DAILY-INSIGHT-START -->
-> _"Chain of thought is just verbose execution. Plan more, generate less."_
+> _"Tokenizers are silent killers — measure your prompt in tokens, not characters."_
 <!-- DAILY-INSIGHT-END -->
 
 ---
