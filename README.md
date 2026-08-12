@@ -66,7 +66,7 @@ Public repositories here should point to real code, technical writing or curated
 ## Daily AI Insight
 
 <!-- DAILY-INSIGHT-START -->
-> _"Hallucination is a UX problem disguised as a model problem."_
+> _"If you can describe the task in three sentences, an LLM can do it. If you need three pages, redesign the task."_
 <!-- DAILY-INSIGHT-END -->
 
 ---
