@@ -66,7 +66,7 @@ Public repositories here should point to real code, technical writing or curated
 ## Daily AI Insight
 
 <!-- DAILY-INSIGHT-START -->
-> _"If you can describe the task in three sentences, an LLM can do it. If you need three pages, redesign the task."_
+> _"Temperature is a budget. Spend it where creativity matters."_
 <!-- DAILY-INSIGHT-END -->
 
 ---
