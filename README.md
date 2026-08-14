@@ -66,7 +66,7 @@ Public repositories here should point to real code, technical writing or curated
 ## Daily AI Insight
 
 <!-- DAILY-INSIGHT-START -->
-> _"Temperature is a budget. Spend it where creativity matters."_
+> _"Caching is the cheapest performance optimization you will ever skip."_
 <!-- DAILY-INSIGHT-END -->
 
 ---
