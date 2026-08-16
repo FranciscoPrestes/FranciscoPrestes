@@ -66,7 +66,7 @@ Public repositories here should point to real code, technical writing or curated
 ## Daily AI Insight
 
 <!-- DAILY-INSIGHT-START -->
-> _"An LLM that admits 'I don't know' is more valuable than one that confidently lies."_
+> _"Multi-agent systems trade complexity for ceiling. Make sure you need the ceiling."_
 <!-- DAILY-INSIGHT-END -->
 
 ---
