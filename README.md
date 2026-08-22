@@ -66,7 +66,7 @@ Public repositories here should point to real code, technical writing or curated
 ## Daily AI Insight
 
 <!-- DAILY-INSIGHT-START -->
-> _"On-chain provenance for training data is the unsexy frontier of trustworthy AI."_
+> _"Zero-knowledge proofs may be how we verify AI outputs without revealing the model."_
 <!-- DAILY-INSIGHT-END -->
 
 ---
