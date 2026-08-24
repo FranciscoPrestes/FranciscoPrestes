@@ -66,7 +66,7 @@ Public repositories here should point to real code, technical writing or curated
 ## Daily AI Insight
 
 <!-- DAILY-INSIGHT-START -->
-> _"Decentralized inference is a 2030 problem with 2025 demos."_
+> _"Data quality beats model size. Always."_
 <!-- DAILY-INSIGHT-END -->
 
 ---
