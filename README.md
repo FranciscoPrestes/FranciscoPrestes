@@ -66,7 +66,7 @@ Public repositories here should point to real code, technical writing or curated
 ## Daily AI Insight
 
 <!-- DAILY-INSIGHT-START -->
-> _"If your notebook has 200 cells, it is no longer a notebook. It is a debt."_
+> _"Reproducibility is a security property. Pin everything."_
 <!-- DAILY-INSIGHT-END -->
 
 ---
