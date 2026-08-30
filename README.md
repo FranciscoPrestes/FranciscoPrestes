@@ -66,7 +66,7 @@ Public repositories here should point to real code, technical writing or curated
 ## Daily AI Insight
 
 <!-- DAILY-INSIGHT-START -->
-> _"MLOps is DevOps with worse tooling and higher stakes."_
+> _"Concept drift is the silent SLA killer."_
 <!-- DAILY-INSIGHT-END -->
 
 ---
