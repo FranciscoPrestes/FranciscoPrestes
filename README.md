@@ -66,7 +66,7 @@ Public repositories here should point to real code, technical writing or curated
 ## Daily AI Insight
 
 <!-- DAILY-INSIGHT-START -->
-> _"Concept drift is the silent SLA killer."_
+> _"A/B test your prompts. Trust your eval, not your taste."_
 <!-- DAILY-INSIGHT-END -->
 
 ---
