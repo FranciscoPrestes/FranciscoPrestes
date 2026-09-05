@@ -66,7 +66,7 @@ Public repositories here should point to real code, technical writing or curated
 ## Daily AI Insight
 
 <!-- DAILY-INSIGHT-START -->
-> _"Buy the foundation model. Build the workflow. Own the data."_
+> _"Every successful AI product has a boring system behind it."_
 <!-- DAILY-INSIGHT-END -->
 
 ---
