@@ -66,7 +66,7 @@ Public repositories here should point to real code, technical writing or curated
 ## Daily AI Insight
 
 <!-- DAILY-INSIGHT-START -->
-> _"Chess teaches AI strategy: tempo matters, position beats material, and every sacrifice needs follow-up."_
+> _"Ship the boring 80%. The interesting 20% is what your competitors will copy."_
 <!-- DAILY-INSIGHT-END -->
 
 ---
