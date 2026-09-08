@@ -66,7 +66,7 @@ Public repositories here should point to real code, technical writing or curated
 ## Daily AI Insight
 
 <!-- DAILY-INSIGHT-START -->
-> _"Ship the boring 80%. The interesting 20% is what your competitors will copy."_
+> _"Attention is all you need — but context is what makes it useful."_
 <!-- DAILY-INSIGHT-END -->
 
 ---
