@@ -66,7 +66,7 @@ Public repositories here should point to real code, technical writing or curated
 ## Daily AI Insight
 
 <!-- DAILY-INSIGHT-START -->
-> _"Attention is all you need — but context is what makes it useful."_
+> _"The bottleneck of GenAI in production is not the model, it is the data pipeline feeding it."_
 <!-- DAILY-INSIGHT-END -->
 
 ---
