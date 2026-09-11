@@ -66,7 +66,7 @@ Public repositories here should point to real code, technical writing or curated
 ## Daily AI Insight
 
 <!-- DAILY-INSIGHT-START -->
-> _"A model that cannot be evaluated cannot be improved. Build the eval harness before the feature."_
+> _"Prompt engineering is software engineering with a stochastic compiler."_
 <!-- DAILY-INSIGHT-END -->
 
 ---
