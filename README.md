@@ -66,7 +66,7 @@ Public repositories here should point to real code, technical writing or curated
 ## Daily AI Insight
 
 <!-- DAILY-INSIGHT-START -->
-> _"Latency is a feature. A 200ms model that ships beats a 2s model that doesn't."_
+> _"RAG without re-ranking is just hopeful retrieval."_
 <!-- DAILY-INSIGHT-END -->
 
 ---
