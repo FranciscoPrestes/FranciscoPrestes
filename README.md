@@ -66,7 +66,7 @@ Public repositories here should point to real code, technical writing or curated
 ## Daily AI Insight
 
 <!-- DAILY-INSIGHT-START -->
-> _"Every chatbot is a state machine in denial."_
+> _"If your AI strategy fits on a slide, it probably fits in a prompt. Go deeper."_
 <!-- DAILY-INSIGHT-END -->
 
 ---
