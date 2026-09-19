@@ -66,7 +66,7 @@ Public repositories here should point to real code, technical writing or curated
 ## Daily AI Insight
 
 <!-- DAILY-INSIGHT-START -->
-> _"If your AI strategy fits on a slide, it probably fits in a prompt. Go deeper."_
+> _"Synthetic data is real data with deniability."_
 <!-- DAILY-INSIGHT-END -->
 
 ---
