@@ -66,7 +66,7 @@ Public repositories here should point to real code, technical writing or curated
 ## Daily AI Insight
 
 <!-- DAILY-INSIGHT-START -->
-> _"MoE models are not cheaper, they are just sparser. Math doesn't lie."_
+> _"The best context window is the one you didn't have to fill."_
 <!-- DAILY-INSIGHT-END -->
 
 ---
