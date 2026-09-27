@@ -66,7 +66,7 @@ Public repositories here should point to real code, technical writing or curated
 ## Daily AI Insight
 
 <!-- DAILY-INSIGHT-START -->
-> _"Observability for LLM apps means logging the prompt, the completion, AND the reasoning."_
+> _"Agents fail silently. Always assert post-conditions."_
 <!-- DAILY-INSIGHT-END -->
 
 ---
