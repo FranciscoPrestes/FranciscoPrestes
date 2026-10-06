@@ -66,7 +66,7 @@ Public repositories here should point to real code, technical writing or curated
 ## Daily AI Insight
 
 <!-- DAILY-INSIGHT-START -->
-> _"Multi-agent systems trade complexity for ceiling. Make sure you need the ceiling."_
+> _"Function calling turned LLMs from oracles into operators."_
 <!-- DAILY-INSIGHT-END -->
 
 ---
