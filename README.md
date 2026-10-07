@@ -66,7 +66,7 @@ Public repositories here should point to real code, technical writing or curated
 ## Daily AI Insight
 
 <!-- DAILY-INSIGHT-START -->
-> _"Function calling turned LLMs from oracles into operators."_
+> _"Scaling laws are economic laws. Plot loss vs cost, not loss vs params."_
 <!-- DAILY-INSIGHT-END -->
 
 ---
