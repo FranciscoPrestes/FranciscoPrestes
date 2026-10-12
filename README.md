@@ -66,7 +66,7 @@ Public repositories here should point to real code, technical writing or curated
 ## Daily AI Insight
 
 <!-- DAILY-INSIGHT-START -->
-> _"Zero-knowledge proofs may be how we verify AI outputs without revealing the model."_
+> _"Decentralized inference is a 2030 problem with 2025 demos."_
 <!-- DAILY-INSIGHT-END -->
 
 ---
