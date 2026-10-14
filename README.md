@@ -66,7 +66,7 @@ Public repositories here should point to real code, technical writing or curated
 ## Daily AI Insight
 
 <!-- DAILY-INSIGHT-START -->
-> _"Data quality beats model size. Always."_
+> _"The best feature engineer is a domain expert with two days of pandas."_
 <!-- DAILY-INSIGHT-END -->
 
 ---
