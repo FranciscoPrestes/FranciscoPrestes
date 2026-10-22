@@ -66,7 +66,7 @@ Public repositories here should point to real code, technical writing or curated
 ## Daily AI Insight
 
 <!-- DAILY-INSIGHT-START -->
-> _"Strategy is choosing what NOT to build. AI strategy is choosing what NOT to automate."_
+> _"Most 'AI transformations' are data cleanups in a trench coat."_
 <!-- DAILY-INSIGHT-END -->
 
 ---
