@@ -66,7 +66,7 @@ Public repositories here should point to real code, technical writing or curated
 ## Daily AI Insight
 
 <!-- DAILY-INSIGHT-START -->
-> _"The bottleneck of GenAI in production is not the model, it is the data pipeline feeding it."_
+> _"A model that cannot be evaluated cannot be improved. Build the eval harness before the feature."_
 <!-- DAILY-INSIGHT-END -->
 
 ---
