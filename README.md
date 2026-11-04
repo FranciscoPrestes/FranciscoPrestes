@@ -66,7 +66,7 @@ Public repositories here should point to real code, technical writing or curated
 ## Daily AI Insight
 
 <!-- DAILY-INSIGHT-START -->
-> _"RAG without re-ranking is just hopeful retrieval."_
+> _"The cost of an LLM call is not the API bill, it is the human time spent debugging hallucinations."_
 <!-- DAILY-INSIGHT-END -->
 
 ---
