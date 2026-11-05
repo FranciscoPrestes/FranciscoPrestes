@@ -66,7 +66,7 @@ Public repositories here should point to real code, technical writing or curated
 ## Daily AI Insight
 
 <!-- DAILY-INSIGHT-START -->
-> _"The cost of an LLM call is not the API bill, it is the human time spent debugging hallucinations."_
+> _"Embeddings drift. Re-index or regret."_
 <!-- DAILY-INSIGHT-END -->
 
 ---
