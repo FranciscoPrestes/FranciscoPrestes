@@ -66,7 +66,7 @@ Public repositories here should point to real code, technical writing or curated
 ## Daily AI Insight
 
 <!-- DAILY-INSIGHT-START -->
-> _"Embeddings drift. Re-index or regret."_
+> _"Every chatbot is a state machine in denial."_
 <!-- DAILY-INSIGHT-END -->
 
 ---
