@@ -66,7 +66,7 @@ Public repositories here should point to real code, technical writing or curated
 ## Daily AI Insight
 
 <!-- DAILY-INSIGHT-START -->
-> _"Tokenizers are silent killers — measure your prompt in tokens, not characters."_
+> _"MoE models are not cheaper, they are just sparser. Math doesn't lie."_
 <!-- DAILY-INSIGHT-END -->
 
 ---
