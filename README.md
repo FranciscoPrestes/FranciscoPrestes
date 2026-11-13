@@ -66,7 +66,7 @@ Public repositories here should point to real code, technical writing or curated
 ## Daily AI Insight
 
 <!-- DAILY-INSIGHT-START -->
-> _"The best context window is the one you didn't have to fill."_
+> _"Quantization is the lossy compression of intelligence. Pick your bits wisely."_
 <!-- DAILY-INSIGHT-END -->
 
 ---
