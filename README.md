@@ -66,7 +66,7 @@ Public repositories here should point to real code, technical writing or curated
 ## Daily AI Insight
 
 <!-- DAILY-INSIGHT-START -->
-> _"Guardrails are not a feature, they are a contract with your users."_
+> _"Observability for LLM apps means logging the prompt, the completion, AND the reasoning."_
 <!-- DAILY-INSIGHT-END -->
 
 ---
