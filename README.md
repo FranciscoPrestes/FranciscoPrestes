@@ -66,7 +66,7 @@ Public repositories here should point to real code, technical writing or curated
 ## Daily AI Insight
 
 <!-- DAILY-INSIGHT-START -->
-> _"Caching is the cheapest performance optimization you will ever skip."_
+> _"An LLM that admits 'I don't know' is more valuable than one that confidently lies."_
 <!-- DAILY-INSIGHT-END -->
 
 ---
