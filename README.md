@@ -66,7 +66,7 @@ Public repositories here should point to real code, technical writing or curated
 ## Daily AI Insight
 
 <!-- DAILY-INSIGHT-START -->
-> _"Scaling laws are economic laws. Plot loss vs cost, not loss vs params."_
+> _"Blockchain solves trust between strangers. AI creates strangers worth trusting. The intersection matters."_
 <!-- DAILY-INSIGHT-END -->
 
 ---
